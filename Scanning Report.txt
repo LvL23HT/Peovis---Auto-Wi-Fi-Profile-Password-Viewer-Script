@@ -1,0 +1,51 @@
+https://htdark.com/scanner/report/bc64690203bf767e2600d42f14ff80835a9ae00c3d2ac706896cb49b002cccd2
+
+
+Scanning Report
+File name: Peovis.exe
+Size: 6326817 bytes
+Scan date: 2024-12-19 22:50:37
+MD5: 670d62e3a8153270b6064149b87b4fe7
+SHA1: b7116952f64286b069ea3a36c0cf38e1a4cbffae
+Detections: 3/40
+Scanner: adaware, State: ok, Result: Gen:Variant.Cerbu.195703
+Scanner: amiti, State: ok, Result: Undetected
+Scanner: avast, State: ok, Result: Undetected
+Scanner: avira, State: ok, Result: Undetected
+Scanner: clamav, State: ok, Result: Undetected
+Scanner: comodolinux, State: ok, Result: Undetected
+Scanner: drweb, State: ok, Result: Undetected
+Scanner: escan, State: ok, Result: Undetected
+Scanner: fsecure, State: ok, Result: Undetected
+Scanner: ikarus, State: ok, Result: Undetected
+Scanner: kaspersky, State: ok, Result: Undetected
+Scanner: mcafee, State: ok, Result: Undetected
+Scanner: nano, State: ok, Result: Undetected
+Scanner: norman, State: ok, Result: Undetected
+Scanner: secureageapex, State: ok, Result: Unknown
+Scanner: sophos, State: ok, Result: Undetected
+Scanner: trendmicro, State: ok, Result: Undetected
+Scanner: viritexplorer, State: ok, Result: Undetected
+Scanner: xvirus, State: ok, Result: Undetected
+Scanner: zonealarm, State: ok, Result: Undetected
+Scanner: alyac, State: ok, Result: Undetected
+Scanner: arcabit, State: ok, Result: Undetected
+Scanner: avg, State: ok, Result: Undetected
+Scanner: bullguard, State: ok, Result: Undetected
+Scanner: comodo, State: ok, Result: Undetected
+Scanner: crowdstrike, State: ok, Result: Undetected
+Scanner: emsisoft, State: ok, Result: Undetected
+Scanner: fprot, State: ok, Result: Undetected
+Scanner: gdata, State: ok, Result: Undetected
+Scanner: immunet, State: ok, Result: Undetected
+Scanner: maxsecure, State: ok, Result: Undetected
+Scanner: microsoftdefender, State: ok, Result: Undetected
+Scanner: nod32, State: ok, Result: Undetected
+Scanner: quickheal, State: ok, Result: Undetected
+Scanner: seqrite, State: ok, Result: Undetected
+Scanner: threatdown, State: ok, Result: Undetected
+Scanner: vba32, State: ok, Result: Trojan.Win64.Agent
+Scanner: virusfighter, State: ok, Result: Undetected
+Scanner: zillya, State: ok, Result: Undetected
+Scanner: zoner, State: ok, Result: Undetected
+Visit our website: HTDark.CoM ❤️ Made with love.
